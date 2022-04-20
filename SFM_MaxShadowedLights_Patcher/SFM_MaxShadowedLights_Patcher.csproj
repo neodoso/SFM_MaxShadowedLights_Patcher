@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Authors>neodos</Authors>
+    <Company>neodos.net</Company>
+    <Description>Source Filmmaker patcher that enables up to 64 shadowed lights.</Description>
+    <PackageIcon>sfm_light_patcher_icon.png</PackageIcon>
+    <ApplicationIcon>graphics\sfm_light_patcher_icon.ico</ApplicationIcon>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <StartupObject>SFM_MaxShadowedLights_Patcher.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="graphics\sfm_light_patcher_icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="graphics\sfm_light_patcher_icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
