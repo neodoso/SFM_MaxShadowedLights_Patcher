@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{48205dd0-3a2e-492c-ad86-ae179f2cd1f5}") = "SFM Max Shadowed Lights Patcher", "SFM_MaxShadowedLights_Patcher\SFM_MaxShadowedLights_Patcher.csproj", "{86063cd6-abe7-4d1c-96c1-5a901c82e961}"
+Project("{48205DD0-3A2E-492C-AD86-AE179F2CD1F5}") = "SFM_MaxShadowedLights_Patcher", "SFM_MaxShadowedLights_Patcher\SFM_MaxShadowedLights_Patcher.csproj", "{86063CD6-ABE7-4D1C-96C1-5A901C82E961}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{86063cd6-abe7-4d1c-96c1-5a901c82e961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{86063cd6-abe7-4d1c-96c1-5a901c82e961}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{86063cd6-abe7-4d1c-96c1-5a901c82e961}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{86063cd6-abe7-4d1c-96c1-5a901c82e961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86063CD6-ABE7-4D1C-96C1-5A901C82E961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86063CD6-ABE7-4D1C-96C1-5A901C82E961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86063CD6-ABE7-4D1C-96C1-5A901C82E961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86063CD6-ABE7-4D1C-96C1-5A901C82E961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
