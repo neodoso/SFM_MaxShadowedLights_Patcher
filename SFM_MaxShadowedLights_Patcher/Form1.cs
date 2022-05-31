@@ -69,10 +69,12 @@ namespace SFM_MaxShadowedLights_Patcher
                     }
                     sfm_dir = (fbd.SelectedPath + "\\").Replace("\\\\", "\\");
 
-                    if(!check_SFM_dll_files())
+                    if (!check_SFM_dll_files())
                     {
                         btn_SFM.Text = "Select the steam \"SourceFilmmaker\" app folder";
                         return;
+                    } else {
+                        install_SFM_patch();
                     }
 
                     
