@@ -13,8 +13,9 @@
     <ApplicationIcon>graphics\sfm_light_patcher_icon.ico</ApplicationIcon>
     <NoWin32Manifest>true</NoWin32Manifest>
     <StartupObject>SFM_MaxShadowedLights_Patcher.Program</StartupObject>
-    <AssemblyVersion>1.0.0</AssemblyVersion>
-    <FileVersion>1.0.0</FileVersion>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
